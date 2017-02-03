@@ -1,0 +1,38 @@
+From bb777b1db18097e4e3e341d8a8c2677025446f7e Mon Sep 17 00:00:00 2001
+From: Natasha Chaturvedi <natasha.chaturvedi@rsystems.com>
+Date: Wed, 18 Jan 2017 10:58:16 +0530
+Subject: [PATCH] added 2 new files in branch 2.0
+
+---
+ test5.txt | 1 +
+ test6.txt | 1 +
+ test7.txt | 1 +
+ 3 files changed, 3 insertions(+)
+ create mode 100644 test5.txt
+ create mode 100644 test6.txt
+ create mode 100644 test7.txt
+
+diff --git a/test5.txt b/test5.txt
+new file mode 100644
+index 0000000..899f65d
+--- /dev/null
++++ b/test5.txt
+@@ -0,0 +1 @@
++hello I am natasha
+diff --git a/test6.txt b/test6.txt
+new file mode 100644
+index 0000000..85f9439
+--- /dev/null
++++ b/test6.txt
+@@ -0,0 +1 @@
++hello I am kunal
+diff --git a/test7.txt b/test7.txt
+new file mode 100644
+index 0000000..366667b
+--- /dev/null
++++ b/test7.txt
+@@ -0,0 +1 @@
++Hi I am natasha
+-- 
+2.9.3.windows.1
+
